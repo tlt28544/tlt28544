@@ -1,0 +1,2 @@
+URL = "https://www.google.com/maps/place/AMT+Theater/@40.7598616,-73.9931763,17z/data=!4m16!1m9!3m8!1s0x89c259341caf18a7:0xd9792c9f66d4f730!2sAMT+Theater!8m2!3d40.7598616!4d-73.9906014!9m1!1b1!16s%2Fg%2F11sgx6gm46!3m5!1s0x89c259341caf18a7:0xd9792c9f66d4f730!8m2!3d40.7598616!4d-73.9906014!16s%2Fg%2F11sgx6gm46?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
+DriverLocation = "./Driver/chromedriver"
